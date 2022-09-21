@@ -1,1 +1,2 @@
 this is first line in first.txt file
+this is second line in first.txt file after first commit
